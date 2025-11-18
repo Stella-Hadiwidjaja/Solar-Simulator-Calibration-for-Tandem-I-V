@@ -1,4 +1,7 @@
-# Solar-Simulator-Calibration-for-Tandem-I-V
+# Multi LED Solar Simulator Calibration for Tandem-I-V
+
+Please note: This repository is functional, however, it is currently undergoing final cleaning, organization and documentation. 
+
 A jupyter notebook enabling virtual calibration for solar simulators according to IEC 60904-1-1, for tandem I-V measurements. This code was written by Antoine Bourgeois, Stella Hadiwidjaja, and Zoltan Nicot-Senneville. 
 
 Before running the code, the user requires:
